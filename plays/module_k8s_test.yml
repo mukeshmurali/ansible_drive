@@ -1,0 +1,11 @@
+#This assumes presence of a minikube cluster with a node
+---
+- hosts: minikube
+  tasks:
+  - name: Create a Deployment by reading the definition from a local file
+    k8s:
+        state: present
+        force: yes #Force forces the updation of deployment object to reflect removed and added fields.
+        apply: no
+        kind: deployment
+        src: /Users/mukesh.murali/githubRoot/ansible_drive/objects/deployment_busybox.yml

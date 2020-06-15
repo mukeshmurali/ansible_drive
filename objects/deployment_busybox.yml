@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sample-deployment
+  namespace: default
+  labels:
+    app: sample
+spec:
+  replicas: 1
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 100%
+      maxUnavailable: 0
+  selector:
+    matchLabels:
+      app: sample-dep1
+  template:
+    metadata:
+      labels:
+        app: sample-dep1
+    spec:
+      containers:
+      - name: busybox
+        image: busybox:1.31.1
+        command:
+            - sleep
+            - "3600"
+        imagePullPolicy: IfNotPresent
+        env:
+        - name: db_host
+          value: AA
+      restartPolicy: Always
