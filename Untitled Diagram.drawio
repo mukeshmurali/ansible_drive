@@ -1,1 +1,41 @@
-<mxfile modified="2021-09-12T21:48:41.403Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="SoQh_YX4emnuXZ6O9Pqq" version="14.9.8" type="github"><diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">7VnbcqM4EP0aPybF3fgxduLMVGVrU5OpmkeXDDIwEYgRIrb367cFEjfhxNkwO5mLeTBq3btPn26hmb1KD7cM5fFfNMRkZhnhYWZfzyzLdAwf/oTkWEvmjhRELAllo1bwkPyDpdCQ0jIJcdFryCklPMn7woBmGQ54T4YYo/t+sx0l/VlzFGFN8BAgoku/JCGPpdT0Fm3FB5xEsZzat+Z1xRYFjxGjZSbny2iG65oUqWHkHosYhXTfEdk3M3vFKOX1W3pYYSLUqjRW91ufqG2WzHDGz+rg1D2eECnltmeWR6DvcgsvkXi5pTQCnYiR6hoYrqlcEVqGUHdPEN9Rlspt8aPS4i4hZEUJZVXRXnvigY4FZ/QRq5pKRSBU6jCgEDEUJrCPQZsdzbgEC6zeXiKSRBkUCN6JBRU5CpIsErWGbN2Zfm6KB+SLG/HAyxNmPAGjX8lhOM3bUT6LwvWFo6aV2zLaFnfVrNeOEMU8JWLeSkVDO0jTiOnwoSOSdrnFNMWcHaGJrPUMiRHpPgsJu32LRWsum8QdGNqND0j8R83QLRDgRWLhBC7cEVwMLAvGysVreogEAVxGQW5dRhVYNoGAxSZXoAD1TQ2DEQ07Z6u4q0NbV6HyToZhA8lTnw/G1CpnuKcJLKaxoNU3oOI1NQDd7QrMNas0yzzLUL7pa5a6YkGccKDEkoHkCiq/4G0BkqJ2YpQKiEe1KxsrADaulv2BFly4zgsu7FxfmWv3RduZb3Vh6VruiBvvqt/kLmfZfYs5huZyc2vE5RzjNDTO9jjD8TTN4xAikixSxmMa0QyRm1a6rMIMDqWvdNRB0BaTZROJhlbiiPF1QlTrqixNIiyCs/BKhFAobgkNHj/HSVaLO52g1OnyFXN+lGVUcgqidsl3tGJSU0ONwJPlO2u7qVGx1hoAxdJhYFQ/HUAhKuJGJydxUdCSBU3OYUvtgyIizBubSMsKQzyLoNdRBegWHTsNckEcxWkmcS3j0u1BU7FJi656zP/KI60COkSyTlghVvEJfytxwfUIMDRlWP10um/8tccOfXubPTSLEtoWlJQcA58pEAhpU7IUzO8psFtCBQICsDJmnbh+N2iQJmFYeY7CjNZDZQJbyjlNNT4aoaNF9RvB617w8AN0F5I9RMl2tKUcvdrFtDRmu+4ALaY3wmQjRGYakzCZPX85e+j5qEzh0bZJrzoaGWBp7ornmfCjJyVwjHiEvG6DsnCT0m1S2R9UzE/rvHWHs9XeuGhHye5YgmZPkl1cWAMb+2r+SRMM4MD57xmXmiPCj41L/k8Vl2x78rg0kuCGYUXniLTBqWjOrUydTf/Eq581Xln+/xuvFr9AvPJfq/ZfNl75v2e8+s7nqGprY5s5M5CpkDUIZM7UgewVB27jZbd/ByGjazxzhMxVmqIFiGlZ2vE0lh75PmKaIwziepOYy9TMpT5Nw/h29blXuLT4Gv33/Q8lcPkVNMN8T9njRoB7E6AgHvD4MBlgtcrOzwWknw4zgabd4EvaM54/ZIixENP4y8uYOZ4OMbY1EmKsSUJMH54X5gB2U8WXsTuTc76Nh7QEvH2q7qp0+n4rsbwTmvAGX70hLukk4fk6BpTsjSQxdnFRHwyEQmbiulDpxPtW0vqcoPygI6qPEB8zCHtZgIvO3Vc9jjpiDA8dK5rmQOgw0U0WJeribwoecs1efD+Hh2J8+BgI6ljmrH65Dur1bXC9unfGRydPJqN8dP6FzzN8pEbp8dHiu/DRYoqMF4rt/XDdvL1/t2/+BQ==</diagram></mxfile>
+<mxfile modified="2021-09-12T22:26:08.074Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="RcmIkagZEQ4Oowqi9q95" version="14.9.8" type="github">
+  <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
+    <mxGraphModel dx="1426" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="818" value="Architecture: Websites &amp;gt; Content Hosting" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="40" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1046" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;" parent="1" source="1036" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="268" />
+              <mxPoint x="440" y="268" />
+            </Array>
+            <mxPoint x="465.5" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1036" value="Web pages" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="220" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1037" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.desktop_and_mobile;part=1;" parent="1036" vertex="1">
+          <mxGeometry x="0.5" width="50" height="33" relative="1" as="geometry">
+            <mxPoint x="-25" y="18.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="120" width="470" height="321" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="14" vertex="1">
+          <mxGeometry width="23" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9CCV21KiLC6-3e6eZ6y-1059" value="Http Load balancer" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_load_balancing" vertex="1" parent="14">
+          <mxGeometry y="121" width="66" height="58.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
